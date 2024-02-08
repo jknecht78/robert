@@ -1,23 +1,15 @@
 {
 	"folders": [
 		{
-			"path": "robert/src"
+			"path": "src"
 		}
 	],
 	"settings": {
 		"python.autoComplete.extraPaths": [
-			"/home/joe/ros2_ws/robert/install/robert_msgs/local/lib/python3.10/dist-packages",
-			"/home/joe/ros2_ws/robert/install/robert_localization/local/lib/python3.10/dist-packages",
-			"/home/joe/ros2_ws/robert/install/robert_firmware/local/lib/python3.10/dist-packages",
-			"/home/joe/ros2_ws/robert/install/robert_controller/local/lib/python3.10/dist-packages",
 			"/opt/ros/humble/lib/python3.10/site-packages",
 			"/opt/ros/humble/local/lib/python3.10/dist-packages"
 		],
 		"python.analysis.extraPaths": [
-			"/home/joe/ros2_ws/robert/install/robert_msgs/local/lib/python3.10/dist-packages",
-			"/home/joe/ros2_ws/robert/install/robert_localization/local/lib/python3.10/dist-packages",
-			"/home/joe/ros2_ws/robert/install/robert_firmware/local/lib/python3.10/dist-packages",
-			"/home/joe/ros2_ws/robert/install/robert_controller/local/lib/python3.10/dist-packages",
 			"/opt/ros/humble/lib/python3.10/site-packages",
 			"/opt/ros/humble/local/lib/python3.10/dist-packages"
 		]
