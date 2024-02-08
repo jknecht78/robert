@@ -1,0 +1,10 @@
+<library path="robert_firmware">
+    <class name="robert_firmware/RobertInterface"
+      type="robert_firmware::RobertInterface"
+      base_class_type="hardware_interface::SystemInterface"
+    >
+      <description>
+        Robert Hardware Interface
+      </description>
+    </class>
+  </library>
